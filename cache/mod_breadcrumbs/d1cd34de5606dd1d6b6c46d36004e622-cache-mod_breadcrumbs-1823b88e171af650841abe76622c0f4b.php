@@ -1,0 +1,2 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";a:2:{s:4:"body";s:0:"";s:4:"head";a:0:{}}s:6:"result";s:159:"<div class="breadcrumbs"><a href="/">Home</a><span>Accordion B</span><a href="/index.php/accordion-b/level-21">Level 2</a><strong>Uncategorised</strong></div>
+";}

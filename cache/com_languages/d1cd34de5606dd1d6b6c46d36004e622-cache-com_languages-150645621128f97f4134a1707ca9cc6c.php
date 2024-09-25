@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:3:{s:7:"default";N;s:3:"sef";a:0:{}s:9:"lang_code";a:0:{}}
