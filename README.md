@@ -42,8 +42,9 @@ Category Manager -> Articles
 
 ![image](https://github.com/user-attachments/assets/5c60b323-4897-4e0a-bb2c-c1e7a1377dd1)
 
+### Creating a design
+This happened by replacing pictures, photos, elements in the template of the same size with your own. To do this, using the materials received from the company, using his imagination, skills and abilities, as well as using the Photoshop CS4 program, he modified the appearance of the site according to its information content.
 
+Appearance of the site:
 
-
-
-
+![image](https://github.com/user-attachments/assets/fb7c8a4b-3286-4cd1-a478-125349c33a61)
