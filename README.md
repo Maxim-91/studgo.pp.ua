@@ -8,4 +8,10 @@ It was used:
 - The domain was registered on the website http://s-hosting.biz/.
 - A domain named studgo.pp.ua is registered.
   
-Flooding Joomla! v2.5.4 ENG took place using the Total Commander file manager.
+### Flooding Joomla! v2.5.4 ENG took place using the Total Commander file manager.
+#### Connecting to an FTP server
+![image](https://github.com/user-attachments/assets/3877e095-2ab4-47ba-9e37-8627add6743d)
+#### Creating settings for connecting to an FTP server
+![image](https://github.com/user-attachments/assets/956dd2eb-3d17-46af-93f5-99f2389bc6a7)
+#### The result of connecting to the FTP server
+![image](https://github.com/user-attachments/assets/b7f3eb77-0751-467d-a152-fc894622bdeb)
