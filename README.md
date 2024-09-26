@@ -31,5 +31,19 @@ Side menu "Community service" and "Charity":
 
 ![image](https://github.com/user-attachments/assets/41727500-98bb-4958-b96b-47cfde761b7d)
 
+### The site was filled using the article manager and category manager
+To create one independent article, a separate category is created for it. To create a news feed, or related articles - they are assigned to the same category.
+
+Article Manager -> Articles
+
+![image](https://github.com/user-attachments/assets/ee8ddc07-6907-46be-9b72-6a85684a6eb9)
+
+Category Manager -> Articles
+
+![image](https://github.com/user-attachments/assets/5c60b323-4897-4e0a-bb2c-c1e7a1377dd1)
+
+
+
+
 
 
